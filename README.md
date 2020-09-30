@@ -1,5 +1,5 @@
-# cs224uSNLI
-CS224U Final Project, Spring 2019
+# CS224u Natural Language Understanding
+[CS224U](https://web.stanford.edu/class/cs224u/) Final Project (Spring 2019)
 
 ## Setup the Environment
 1. Follow instructions for setting up the CS224U environment
